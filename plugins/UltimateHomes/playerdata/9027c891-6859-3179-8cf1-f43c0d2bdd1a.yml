@@ -1,0 +1,18 @@
+player:
+  info:
+    lastSeenAs: cadhead
+homes:
+  home:
+    x: -337
+    y: 64
+    z: -173
+    yaw: 86.299515
+    pitch: 17.85
+    world: world
+  mine:
+    x: -296
+    y: 14
+    z: -228
+    yaw: -112.74237
+    pitch: 0.299545
+    world: world
